@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "inset": {
+      "type": "http",
+      "url": "https://shopinset.com/mcp-claude"
+    }
+  }
+}

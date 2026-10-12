@@ -1,0 +1,25 @@
+{
+  "name": "inset",
+  "displayName": "Inset",
+  "version": "0.5.1",
+  "description": "Plan replacement patio and indoor cushions, explore fabrics and price ranges, and open your furniture project for website previews.",
+  "author": {
+    "name": "Deep Forest AI, LLC"
+  },
+  "homepage": "https://shopinset.com/",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "supportUrl": "https://shopinset.com/support",
+  "privacyPolicyUrl": "https://shopinset.com/privacy",
+  "termsOfServiceUrl": "https://shopinset.com/terms",
+  "metadata": {
+    "examplePrompts": [
+      "My patio cushions are faded. Help me pick fabrics and measure for new ones.",
+      "Compare the saved fabric looks on my indoor bench.",
+      "Check my cushion measurements and show an estimated price range."
+    ]
+  },
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://shopinset.com/support",
+  "license": "UNLICENSED"
+}
